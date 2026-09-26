@@ -1,4 +1,3 @@
-# Hey I'm Giningakpio Stephen Paite Justin.txt
 # Hey I'm Giningakpio Stephen Paite Justin
 
 ### IT and Operations Manager | Network Engineer | Cybersecurity Specialist

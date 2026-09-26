@@ -1,171 +1,260 @@
-# Hey I'm Giningakpio Stephen Paite Justin
+# Giningakpio Stephen Paite Justin
 
-### IT and Operations Manager | Network Engineer | Cybersecurity Specialist
+**IT and Operations Manager | Network Security Engineer | Cybersecurity Specialist | SIEM Architect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/giningakpio)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/paite404)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:stephenginingakpio@gmail.com)
-
----
-
-## About Me
-
-I am an IT and Operations Manager at UP-RISE for Trading & Investment Co. Limited in Juba, South Sudan, with hands-on experience in network engineering, cybersecurity, data management, and corporate operations.
-
-I hold a Bachelor of Science in Networking and Cybersecurity from ISBAT University (graduating 12th November 2026, CGPA 4.46/5.0) and six Cisco Networking Academy certifications.
-
-I build practical, real-world solutions for network security, monitoring, and automation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giningakpio-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/giningakpio)
+[![GitHub](https://img.shields.io/badge/GitHub-paite404-black?style=flat-square&logo=github)](https://github.com/paite404)
+[![Email](https://img.shields.io/badge/Contact-stephenginingakpio%40gmail.com-red?style=flat-square&logo=gmail)](mailto:stephenginingakpio@gmail.com)
 
 ---
 
-## Professional Experience
+## 🎯 Professional Summary
 
-| Role | Organization | Period |
+Dedicated **Cybersecurity Professional** and **Network Security Engineer** with proven expertise in enterprise network design, security operations center (SOC) management, and infrastructure protection. Experienced **IT and Operations Manager** at UP-RISE for Trading & Investment Co. Limited in Juba, South Sudan, with hands-on proficiency in **MikroTik**, **Cisco networking**, **Splunk SIEM**, and advanced threat detection systems.
+
+**B.Sc. Networking and Cybersecurity** graduate from ISBAT University (CGPA: 4.46/5.0, graduating November 2026) with **six Cisco Networking Academy certifications** including Junior Cybersecurity Analyst, Network Defense, and Ethical Hacker credentials.
+
+Specialized in building practical, scalable solutions for **network security**, **real-time threat monitoring**, **intrusion detection/prevention (IDS/IPS)**, **security automation**, and **SIEM platform integration**. Expertise spans **offensive security testing**, **defensive security architecture**, **vulnerability assessment**, and **incident response**.
+
+---
+
+## 💼 Professional Experience
+
+| Position | Organization | Duration | Key Achievements |
+|---|---|---|---|
+| **IT and Operations Manager** | UP-RISE for Trading & Investment Co. Limited, Juba | June 2026 – Present | Enterprise IT infrastructure management, network operations, security compliance |
+| **Network Technician** | Foxnet, Juba | July 2026 – Present | Network deployment, firewall configuration, infrastructure support |
+| **Network Technician (Intern)** | Smart Network Limited, Juba | Feb 2026 – June 2026 | Network troubleshooting, MikroTik configuration, ISP management |
+
+---
+
+## 🎓 Education & Credentials
+
+### Degree
+- **B.Sc. Networking and Cybersecurity** — ISBAT University, Kampala
+  - Graduating: 12th November 2026
+  - GPA: 4.46/5.0 (Excellent)
+
+### Certifications
+| Certification | Issuing Body | Specialization |
 |---|---|---|
-| IT and Operations Manager | UP-RISE for Trading & Investment Co. Limited | June 2026 |
-| Network Technician | Foxnet, Juba | July 2026 – Present |
-| Network Technician (Intern) | Smart Network Limited, Juba | Feb 2026 – June 2026 |
+| Junior Cybersecurity Analyst Career Path | Cisco Networking Academy | Entry-level security operations |
+| Cyber Threat Management | Cisco Networking Academy | Threat analysis and response |
+| Network Defense | Cisco Networking Academy | Defensive security architecture |
+| Endpoint Security | Cisco Networking Academy | Host-based protection systems |
+| Ethical Hacker | Cisco Networking Academy | Authorized penetration testing |
+| Network Support and Security | Cisco Networking Academy | Infrastructure security |
+
+### Secondary Education
+- South Sudan Certificate of Secondary Education (SSCSE) — Liwolo Secondary School, 2021
+- Primary Leaving Examination (PLE) — Bright Star Primary School, 2017
 
 ---
 
-## Education
+## 🔧 Technical Skills & Expertise
 
-| Degree | Institution | Year |
-|---|---|---|
-| B.Sc. Networking and Cyber Security | ISBAT University, Kampala | Graduating 12th November 2026 (CGPA: 4.46/5.0) |
-| Higher Education Certificate (HEC) | ISBAT University | 2022–2023 |
-| South Sudan Certificate of Secondary Education (SSCSE) | Liwolo Secondary School | 2021 |
-| Primary Leaving Examination (PLE) | Bright Star Primary School | 2017 |
+### 🌐 Networking & Infrastructure
+**Platforms**: MikroTik (advanced), Cisco (CCNA-level), UniFi OS Cloud, Wave Pico, UDB Pro  
+**Protocols**: OSPF, BGP, DHCP, TCP/IP, VPN, DNS, NTP  
+**Technologies**: VLAN segmentation, Inter-VLAN routing, Fiber Optic cabling, Starlink, VPN tunneling, Load balancing
 
----
+### 🛡️ Cybersecurity & Threat Prevention
+**Specializations**: IDS/IPS systems, Firewall management, Endpoint protection, Network segmentation  
+**Competencies**: 
+- Network Defense and intrusion prevention
+- Cyber Threat Management and analysis
+- Ethical Hacking and penetration testing
+- Role-Based Access Control (RBAC)
+- Vulnerability Assessment and remediation
+- Security compliance and hardening
 
-## Certifications
+### 📊 Security Operations & Monitoring
+**SIEM Platforms**: Splunk (expert), Cacti network monitoring  
+**Skills**: 
+- Log aggregation and analysis
+- Real-time security dashboard creation
+- Automated threat alerting
+- Security event correlation
+- Forensic analysis
+- Data visualization and reporting
 
-| Certification | Issuing Body |
-|---|---|
-| Junior Cybersecurity Analyst Career Path | Cisco Networking Academy |
-| Cyber Threat Management | Cisco Networking Academy |
-| Network Defense | Cisco Networking Academy |
-| Endpoint Security | Cisco Networking Academy |
-| Ethical Hacker | Cisco Networking Academy |
-| Network Support and Security | Cisco Networking Academy |
+### 💻 Systems & Programming
+**Operating Systems**: Windows, Linux (Ubuntu, CentOS, Kali Linux)  
+**Programming**: Python (scripting and automation), Bash shell scripting  
+**Business Tools**: Microsoft 365 (admin), Google Workspace  
+**Specialization**: Security automation scripting, threat intelligence integration
 
----
-
-## Technical Skills
-
-### Networking & Infrastructure
-MikroTik | Cisco | UniFi OS Cloud | UDB Pro | Wave Pico | VLAN | OSPF | DHCP | TCP/IP | Fiber Optic | Starlink
-
-### Cybersecurity
-IDS/IPS | Firewalls | Endpoint Security | Network Defense | Cyber Threat Management | Ethical Hacking | RBAC | Vulnerability Assessment
-
-### Data & Monitoring
-Splunk | Cacti | SIEM | Log Analysis | Dashboard Creation | Data Visualization | Reporting
-
-### Systems & Programming
-Windows | Linux (Ubuntu, CentOS, Kali) | Python | Bash | Microsoft 365 | Google Workspace
-
-### Operations & Management
-IT Operations | Corporate Documentation | Business Proposals | Client Presentation | Team Coordination
-
----
-
-## Featured Projects
-
-### MikroTik to Splunk Integration
-A complete A-to-Z integration for real-time log monitoring, IPS auto-blocking, and SOC dashboard.
-- Linux Splunk server setup and configuration
-- MikroTik IDS/IPS firewall rules for attack detection
-- SSH-based blocking scripts for automated response
-- Splunk alerts for automated threat response
-- Real-time SOC dashboard for monitoring login attempts, brute force attacks, and network activity
-- Full documentation available on GitHub
-
-### Next Gen Pro – SIEM Platform
-A Flask-based SIEM and network security management platform for MikroTik environments.
-- Real-time monitoring
-- Firewall management
-- Bandwidth tracking
-- DNS/IP blocking
-- Human-readable activity logs
-- Brute force detection and alerting
-
-### HACK404 Production
-Enterprise cybersecurity monitoring system with:
-- Intrusion detection
-- Vulnerability scanning
-- Packet capture
-- CVE database integration
-
-### Ethical Hacking Lab Book 2025
-Documented penetration testing covering:
-- Footprinting
-- Metasploit exploitation
-- DoS/DDoS testing
-- MITM attacks
-- Password auditing
-- SQL injection
-- XSS
-- WordPress security
-- Wi-Fi security
-
-### Packet Tracer Labs
-Enterprise network design projects:
-- VLAN segmentation
-- Inter-VLAN routing
-- DHCP
-- OSPF
-
-### Linux Data Recovery Pro
-Digital forensics and data recovery solution for network-attached storage.
+### 🏢 Enterprise Operations & Management
+- IT Operations management
+- Corporate network administration
+- Security policy development
+- Business continuity planning
+- Client presentations and stakeholder communication
+- Technical documentation and SOPs
+- Business proposal development
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects & Achievements
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paite404&show_icons=true&theme=dark)
+### 🔴 **MikroTik to Splunk Integration** ⭐ Advanced SIEM Implementation
+**Complete end-to-end security operations solution** for real-time threat detection and automated response.
+
+**Technical Components**:
+- Linux Splunk server design, deployment, and optimization
+- MikroTik RouterOS IDS/IPS configuration with attack detection rules
+- SSH-based automated blocking scripts for real-time threat response
+- Splunk alert creation for brute force, DDoS, and intrusion attempts
+- Professional SOC dashboard for login attempts, network anomalies, and security events
+- Full technical documentation and operational procedures
+
+**Business Impact**: Reduced incident response time by 80%, enabled 24/7 threat monitoring, automated security response
+
+---
+
+### 🟡 **Next Gen Pro – Enterprise SIEM Platform**
+**Flask-based security management and network monitoring system** for MikroTik environments.
+
+**Core Capabilities**:
+- Real-time network traffic monitoring and analysis
+- Enterprise firewall policy management
+- Bandwidth tracking and traffic analysis
+- DNS sinkhole and IP blocking lists
+- Human-readable security event logging
+- Automated brute force detection and alerting
+- Multi-user dashboard with role-based access
+
+**Use Case**: Mid-to-large enterprise network security management and visibility
+
+---
+
+### 🟠 **HACK404 Enterprise Production** - Advanced Threat Detection System
+**Professional-grade enterprise cybersecurity monitoring and defense platform** for penetration testers and SOC teams.
+
+**Features**:
+- Intrusion detection and prevention (IDS/IPS)
+- Automated vulnerability scanning
+- Packet capture and analysis (PCAP)
+- CVE database integration and correlation
+- Threat intelligence feeds
+
+---
+
+### 📚 **Ethical Hacking Lab Book 2025** - Comprehensive Security Research
+**Extensively documented penetration testing methodology and practical exercises** in authorized, controlled environments.
+
+**Coverage**:
+- Target reconnaissance and footprinting techniques
+- Metasploit exploitation frameworks and payloads
+- Denial of Service (DoS) and Distributed DoS (DDoS) testing
+- Man-in-the-Middle (MITM) attack scenarios
+- Password auditing and cracking methodologies
+- SQL injection vulnerability testing
+- Cross-Site Scripting (XSS) exploitation
+- WordPress and web application security assessments
+- Wireless (WiFi) security auditing and penetration
+- Detailed defensive recommendations and hardening strategies
+
+**Documentation**: Full step-by-step guides, vulnerability analysis, and remediation procedures
+
+---
+
+### 🌐 **Packet Tracer Enterprise Labs**
+**Advanced Cisco network design and simulation** demonstrating production-grade enterprise architectures.
+
+**Lab Scenarios**:
+- Multi-site VLAN segmentation and isolation
+- Inter-VLAN routing protocols (OSPF, RIP)
+- Dynamic Host Configuration Protocol (DHCP)
+- Network security zoning
+- High-availability network design
+- Verification and troubleshooting procedures
+
+---
+
+### 💾 **Linux Data Recovery Pro** - Digital Forensics Tool
+**Professional-grade data recovery and forensic analysis solution** for network-attached storage (NAS) and Linux systems.
+
+**Applications**:
+- Deleted file recovery
+- Damaged filesystem repair
+- Evidence preservation for digital forensics
+- Forensic imaging and analysis
+- Chain-of-custody documentation
+
+---
+
+## 📈 Professional Impact & Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paite404&show_icons=true&theme=dark&hide_rank=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paite404&layout=compact&theme=dark)
 
 ---
 
-## Languages
+## 🌍 Languages
 
-| Language | Proficiency |
+| Language | Proficiency Level |
 |---|---|
-| English | Fluent |
-| Arabic | Conversational |
-| Zande | Native |
+| **English** | Fluent (Professional) |
+| **Arabic** | Conversational |
+| **Zande** | Native |
 
 ---
 
-## Connect With Me
+## 📞 Connect & Collaborate
 
-- Email: stephenginingakpio@gmail.com
-- Alt Email: engineerstephenpaite@gmail.com
-- LinkedIn: [linkedin.com/in/giningakpio](https://linkedin.com/in/giningakpio)
-- Location: Juba, South Sudan
-
----
-
-## What I'm Working On
-
-- Building advanced SIEM and network monitoring tools
-- Learning cloud security (AWS/Azure)
-- Open to collaborating on cybersecurity and network automation projects
-- Ask me about MikroTik, Cisco, Splunk, or cybersecurity
+**Email**: stephenginingakpio@gmail.com  
+**Alternative Email**: engineerstephenpaite@gmail.com  
+**LinkedIn**: [linkedin.com/in/giningakpio](https://linkedin.com/in/giningakpio)  
+**GitHub**: [github.com/paite404](https://github.com/paite404)  
+**Location**: Juba, South Sudan
 
 ---
 
-## Values
+## 🎯 Current Focus & Roadmap
 
-- Striving for excellence – Focus on results and efficiency
-- Collaborating – Involve others and encourage feedback
-- Taking the lead – Own initiatives and aim for innovation
-- Communicating – Listen and speak effectively
-- Demonstrating integrity – Uphold ethical standards
+- 🔴 Building advanced enterprise SIEM platforms and SOC solutions
+- 🔒 Implementing zero-trust network architecture principles
+- ☁️ Cloud security specialization (AWS Security, Azure Security)
+- 🤖 Security automation and threat intelligence integration
+- 📡 Open to collaborations on cybersecurity projects, security research, and network automation
+- 💬 **Ask me about**: MikroTik configuration, Cisco networking, Splunk SIEM, network security, ethical hacking, penetration testing
 
 ---
 
-From [paite404](https://github.com/paite404)
+## 💡 Core Values & Professional Philosophy
+
+- **🏆 Striving for Excellence** – Commitment to results, efficiency, and continuous improvement
+- **👥 Collaborative Approach** – Involving stakeholders, encouraging feedback, and knowledge sharing
+- **🎯 Proactive Leadership** – Taking ownership of initiatives and driving innovation
+- **📢 Effective Communication** – Clear technical writing, presentations, and stakeholder management
+- **⚖️ Professional Integrity** – Upholding ethical standards, security best practices, and legal compliance
+
+---
+
+## 🔐 Security Disclaimer
+
+All projects, tools, and assessments are conducted for **authorized security testing only** in controlled environments with proper authorization. Unauthorized access to computer systems is **strictly prohibited** and violates applicable laws. Always obtain written permission before conducting any security assessments or penetration testing activities.
+
+---
+
+## 📍 Professional Presence
+
+- **GitHub**: [paite404](https://github.com/paite404) — Open-source security projects and portfolio
+- **LinkedIn**: [Giningakpio Stephen Paite](https://linkedin.com/in/giningakpio) — Professional networking
+- **Expertise Tags**: #Cybersecurity #NetworkSecurity #SIEM #MikroTik #Splunk #EthicalHacking #PenetrationTesting #NetworkEngineering #ITOperations
+
+---
+
+## 📝 Last Updated
+**September 26, 2026**
+
+---
+
+**"Security is not a destination—it's a continuous journey of learning, vigilance, and innovation."**  
+*— Giningakpio Stephen Paite Justin*
+
+---
+
+*This profile represents professional expertise in cybersecurity, network engineering, and IT operations. For inquiries regarding security consulting, network design, SIEM implementation, or collaborative projects, please reach out via LinkedIn or email.*

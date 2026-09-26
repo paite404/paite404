@@ -3,7 +3,7 @@
 ### IT and Operations Manager | Network Engineer | Cybersecurity Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/giningakpio)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/pait404)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/paite404)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:stephenginingakpio@gmail.com)
 
 ---
@@ -124,9 +124,9 @@ Digital forensics and data recovery solution for network-attached storage.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pait404&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paite404&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pait404&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paite404&layout=compact&theme=dark)
 
 ---
 
@@ -168,4 +168,4 @@ Digital forensics and data recovery solution for network-attached storage.
 
 ---
 
-From [pait404](https://github.com/pait404)
+From [paite404](https://github.com/paite404)

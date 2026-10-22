@@ -131,8 +131,8 @@ Responsibilities:
 - Endpoint Security
 - Ethical Hacker
 - Network Support and Security
-- Data Management & Analysis for Cluster Information Management — UNICEF (through Agora)
-- Humanitarian Access and Principles — NRC (through Kaya)
+- Data Management & Analysis for Cluster Information Management UNICEF (through Agora)
+- Humanitarian Access and Principles NRC (through Kaya)
 
 ---
 

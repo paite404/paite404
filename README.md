@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=FF3B30&center=true&vCenter=true&width=700&lines=Giningakpio+Stephen+Paite+Justin;IT+and+Operations+Manager;Network+Security+Engineer;Cybersecurity+Specialist" alt="Typing SVG" /></h1>
+  <h1><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=FF3B30&center=true&vCenter=true&width=700&lines=Giningakpio+Stephen+Paite+Justin;IT+and+Operations+Manager;Cybersecurity+and+Network+Operations" alt="Giningakpio Stephen Paite Justin - IT and Operations Manager" /></h1>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## THREAT OVERVIEW
 
-Cybersecurity and network professional specializing in enterprise network operations, system protection, security monitoring, and infrastructure resilience. I design and maintain secure network environments, monitor threats, and support organizations with practical security controls, real-time alerts, and operational efficiency.
+Cybersecurity and network professional specializing in enterprise network operations, system protection, security monitoring, and infrastructure resilience. I design and maintain secure network environments that support business continuity, system integrity, and cyber risk reduction.
 
 I bring together technical knowledge in networking, security monitoring, Linux, firewall management, SIEM, and incident response to support safe and reliable digital infrastructure.
 
@@ -131,6 +131,8 @@ Responsibilities:
 - Endpoint Security
 - Ethical Hacker
 - Network Support and Security
+- Data Management & Analysis for Cluster Information Management — UNICEF (through Agora)
+- Humanitarian Access and Principles — NRC (through Kaya)
 
 ---
 

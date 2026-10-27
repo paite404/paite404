@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=FF3B30&center=true&vCenter=true&width=700&lines=Giningakpio+Stephen+Paite+Justin;IT+and+Operations+Manager;Cybersecurity+and+Network+Operations" alt="Giningakpio Stephen Paite Justin - IT and Operations Manager" /></h1>
+  <h1><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=FF3B30&center=true&vCenter=true&width=700&lines=Giningakpio+Stephen+Paite+Justin;IT+and+Operations+Manag[...]
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## THREAT OVERVIEW
 
-Cybersecurity and network professional specializing in enterprise network operations, system protection, security monitoring, and infrastructure resilience. I design and maintain secure network environments that support business continuity, system integrity, and cyber risk reduction.
+Cybersecurity and network professional specializing in enterprise network operations, system protection, security monitoring, and infrastructure resilience. I design and maintain secure network environments, optimize operational workflows, and support digital transformation with a strong focus on security and reliability.
 
 I bring together technical knowledge in networking, security monitoring, Linux, firewall management, SIEM, and incident response to support safe and reliable digital infrastructure.
 
@@ -125,6 +125,7 @@ Responsibilities:
 - ISBAT University
 
 ### Certifications
+- Cisco Certified Network Associate (CCNA)
 - Junior Cybersecurity Analyst Career Path
 - Cyber Threat Management
 - Network Defense
@@ -139,13 +140,13 @@ Responsibilities:
 ## SKILL MATRIX
 
 | Category | Skills |
-|---|---|
-| Networking | MikroTik, Cisco, VLAN, OSPF, DHCP, TCP/IP, Fiber Optic, Structured Cabling, Starlink |
-| Cybersecurity | IDS/IPS, Firewalls, Endpoint Security, Network Defense, Threat Management, Ethical Hacking, RBAC |
-| Monitoring | Splunk, Cacti, SIEM, Log Analysis, Dashboard Creation, Reporting |
-| Systems | Windows, Linux, Python, Bash, Microsoft 365, Google Workspace |
-| Operations | IT Operations, Documentation, Business Proposals, Client Presentation, Team Coordination |
-| Soft Skills | Problem Solving, Communication, Time Management, Adaptability, Teamwork, Integrity |
+| |---|---|
+| | Networking | MikroTik, Cisco, VLAN, OSPF, DHCP, TCP/IP, Fiber Optic, Structured Cabling, Starlink |
+| | Cybersecurity | IDS/IPS, Firewalls, Endpoint Security, Network Defense, Threat Management, Ethical Hacking, RBAC |
+| | Monitoring | Splunk, Cacti, SIEM, Log Analysis, Dashboard Creation, Reporting |
+| | Systems | Windows, Linux, Python, Bash, Microsoft 365, Google Workspace |
+| | Operations | IT Operations, Documentation, Business Proposals, Client Presentation, Team Coordination |
+| | Soft Skills | Problem Solving, Communication, Time Management, Adaptability, Teamwork, Integrity |
 
 ---
 
